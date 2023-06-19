@@ -10,3 +10,7 @@ body {
     font-weight: 600;
     color: rgb(124, 180, 86);
 }
+
+.test-class {
+    color: white;
+}
