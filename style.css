@@ -1,15 +1,12 @@
 :root {
-   background-color: aqua; 
-}
-
-html {
-    background-color: gold;
+    --color-primary: darkblue ;
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: var(--color-primary);
+    color: var(--color-primary);
 }
-.h2-tag {
+.h1-tag {
     font-weight: 600;
     color: rgb(124, 180, 86);
 }
