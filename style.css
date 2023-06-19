@@ -1,0 +1,15 @@
+:root {
+   background-color: aqua; 
+}
+
+html {
+    background-color: gold;
+}
+
+body {
+    background-color: antiquewhite;
+}
+.h2-tag {
+    font-weight: 600;
+    color: rgb(124, 180, 86);
+}
